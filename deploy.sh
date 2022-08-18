@@ -16,4 +16,4 @@ git push -f https://github.com/tony86777525/vuedc.git master:gh-pages
 # 將dist資料夾中的內容推送至遠端eric-project的gh-pages分支中，並強制無條件將舊有的內容取代成目前的內容（指令 git push -f)
 cd
 
-#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
+#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
